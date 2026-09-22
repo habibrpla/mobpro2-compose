@@ -7,7 +7,7 @@
  * terhadap project ini tanpa izin pemilik hak cipta.
  */
 
-package com.indraazimi.mobpro2.ui.screen
+package com.habibakbar.mobpro2.ui.screen
 
 import android.content.Context
 import android.widget.Toast
@@ -35,7 +35,7 @@ import androidx.compose.ui.text.input.KeyboardCapitalization
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.indraazimi.mobpro2.R
+import com.habibakbar.mobpro2.R
 
 @Composable
 fun MainScreen(

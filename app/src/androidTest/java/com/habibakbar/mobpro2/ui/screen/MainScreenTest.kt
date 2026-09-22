@@ -7,7 +7,7 @@
  * terhadap project ini tanpa izin pemilik hak cipta.
  */
 
-package com.indraazimi.mobpro2.ui.screen
+package com.habibakbar.mobpro2.ui.screen
 
 import androidx.activity.ComponentActivity
 import androidx.compose.ui.Modifier
@@ -16,7 +16,7 @@ import androidx.compose.ui.test.junit4.createAndroidComposeRule
 import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performClick
 import androidx.compose.ui.test.performTextInput
-import com.indraazimi.mobpro2.R
+import com.habibakbar.mobpro2.R
 import org.junit.Rule
 import org.junit.Test
 
