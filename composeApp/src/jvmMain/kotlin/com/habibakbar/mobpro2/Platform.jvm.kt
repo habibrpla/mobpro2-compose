@@ -1,4 +1,4 @@
-package com.indraazimi.mobpro2
+package com.habibakbar.mobpro2
 
 class JVMPlatform: Platform {
     override val name: String = "Java ${System.getProperty("java.version")}"

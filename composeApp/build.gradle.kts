@@ -44,11 +44,11 @@ kotlin {
 }
 
 android {
-    namespace = "com.indraazimi.mobpro2"
+    namespace = "com.habibakbar.mobpro2"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.indraazimi.mobpro2"
+        applicationId = "com.habibakbar.mobpro2"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
@@ -76,11 +76,11 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "com.indraazimi.mobpro2.MainKt"
+        mainClass = "com.habibakbar.mobpro2.MainKt"
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "com.indraazimi.mobpro2"
+            packageName = "com.habibakbar.mobpro2"
             packageVersion = "1.0.0"
         }
     }

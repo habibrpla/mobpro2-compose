@@ -1,4 +1,4 @@
-package com.indraazimi.mobpro2
+package com.habibakbar.mobpro2
 
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
