@@ -7,7 +7,7 @@
  * terhadap project ini tanpa izin pemilik hak cipta.
  */
 
-package com.indraazimi.mobpro2.ui.screen
+package com.habibakbar.mobpro2.ui.screen
 
 import android.content.Context
 import android.os.Looper
@@ -18,7 +18,7 @@ import com.google.android.gms.location.LocationRequest
 import com.google.android.gms.location.LocationResult
 import com.google.android.gms.location.LocationServices
 import com.google.android.gms.location.Priority
-import com.indraazimi.mobpro2.model.Coordinate
+import com.habibakbar.mobpro2.model.Coordinate
 import kotlinx.coroutines.channels.awaitClose
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.callbackFlow

@@ -7,7 +7,7 @@
  * terhadap project ini tanpa izin pemilik hak cipta.
  */
 
-package com.indraazimi.mobpro2.model
+package com.habibakbar.mobpro2.model
 
 import kotlin.math.atan
 import kotlin.math.cos

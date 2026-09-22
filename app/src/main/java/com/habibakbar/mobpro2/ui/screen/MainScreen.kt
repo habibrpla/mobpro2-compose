@@ -7,7 +7,7 @@
  * terhadap project ini tanpa izin pemilik hak cipta.
  */
 
-package com.indraazimi.mobpro2.ui.screen
+package com.habibakbar.mobpro2.ui.screen
 
 import android.Manifest
 import android.util.Log
@@ -29,8 +29,8 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.google.accompanist.permissions.ExperimentalPermissionsApi
 import com.google.accompanist.permissions.isGranted
 import com.google.accompanist.permissions.rememberPermissionState
-import com.indraazimi.mobpro2.R
-import com.indraazimi.mobpro2.model.Coordinate
+import com.habibakbar.mobpro2.R
+import com.habibakbar.mobpro2.model.Coordinate
 import ovh.plrapps.mapcompose.api.addMarker
 import ovh.plrapps.mapcompose.api.hasMarker
 import ovh.plrapps.mapcompose.api.moveMarker
