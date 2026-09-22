@@ -13,7 +13,7 @@ plugins {
 }
 
 android {
-    namespace = "com.indraazimi.mobpro2s"
+    namespace = "com.habibakbar.mobpro2s"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1

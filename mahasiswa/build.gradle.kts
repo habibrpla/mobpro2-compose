@@ -13,7 +13,7 @@ plugins {
 }
 
 android {
-    namespace = "com.indraazimi.mobpro2m"
+    namespace = "com.habibakbar.mobpro2m"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -21,7 +21,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.indraazimi.mobpro2m"
+        applicationId = "com.habibakbar.mobpro2m"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
