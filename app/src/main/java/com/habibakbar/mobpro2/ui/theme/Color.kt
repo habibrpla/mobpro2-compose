@@ -7,7 +7,7 @@
  * terhadap project ini tanpa izin pemilik hak cipta.
  */
 
-package com.indraazimi.mobpro2.ui.theme
+package com.habibakbar.mobpro2.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
